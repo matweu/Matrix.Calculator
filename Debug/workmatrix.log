@@ -1,0 +1,7 @@
+﻿  workmatrix.cpp
+C:\Users\matwe\source\repos\workmatrix\workmatrix.cpp(17,26): warning C4101: j: неиспользованная локальная переменная
+C:\Users\matwe\source\repos\workmatrix\workmatrix.cpp(17,23): warning C4101: i: неиспользованная локальная переменная
+C:\Users\matwe\source\repos\workmatrix\workmatrix.cpp(96,26): warning C4101: j: неиспользованная локальная переменная
+C:\Users\matwe\source\repos\workmatrix\workmatrix.cpp(96,23): warning C4101: i: неиспользованная локальная переменная
+C:\Users\matwe\source\repos\workmatrix\workmatrix.cpp(428,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  workmatrix.vcxproj -> C:\Users\matwe\source\repos\workmatrix\Debug\workmatrix.exe
